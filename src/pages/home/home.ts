@@ -9,7 +9,8 @@ import { CommunityCulturePage } from '../community-culture-page/community-cultur
   templateUrl: 'home.html'
 })
 export class HomePage {
-
+  aboutUsPage = AboutUsPage;
+  communityCulturePage = CommunityCulturePage;
   constructor(public navCtrl: NavController) {
     
   }
