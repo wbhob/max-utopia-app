@@ -29,7 +29,24 @@ $colors: (
   light:      #f4f4f4,
   dark:       #222
 );
-
+ .m0a {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:auto;
+}
+.bottom-img {
+  height:300px;
+}
+.big {
+  font-size:1.5em;
+}
+.md {
+  font-size:1.3em;
+}
+.m-30 {
+  margin-top:30px;
+}
 
 // App iOS Variables
 // --------------------------------------------------
